@@ -1,0 +1,1 @@
+In this project, i have made a to-do list, where you can add your tasks and add it to the list by clicking on add button. you can further check the task if completed by checking it. if you want to remove the task you can delete it as well.
